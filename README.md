@@ -1,13 +1,22 @@
 
-### Olá ! eu sou o João Rafael 🖐️ 
+# 🧑🏻‍💻 João Rafael
+
+**`Desenvolvedor Fullstack`**
+
+Me chamo João Rafael de Oliveira, tenho 21 anos e estou no 3º semestre de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. Atualmente, trabalho como Analista de Suporte, onde desenvolvo habilidades em resolução de problemas e otimização de processos.
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-rafael-de-oliveira-a222ab187/)
 
 ![joaoRafael GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorafaeldeoliveira&show_icons=true&theme=onedark)
 
-## Tecnologias
-<div style="display: inline_block"><br/>
- <img align="center" alt ="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
- <img align="center" alt ="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="center" alt ="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+### 🤖 Tecnologias
+<img 
+   align = "left"
+   alt = "CSS"
+   tittle = "CSS"
+   width= "30px"
+   style="padding-right:10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+ />
+          
