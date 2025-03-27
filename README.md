@@ -108,7 +108,7 @@ Me chamo João Rafael de Oliveira, tenho 21 anos e estou no 3º semestre de Aná
        alt="GitHub Stats" 
        height="200" 
        style="padding-right: 10px;" 
-       src="https://github-readme-stats.vercel.app/api?username=joaorafaeldeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+       src="([https://github-readme-stats.vercel.app/api?username=joaorafaeldeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=joaorafaeldeoliveira&theme=dark&hide_border=false&include_all_commits=true&count_private=true))" 
      />
    <img 
          align="left" 
