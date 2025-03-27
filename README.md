@@ -98,8 +98,7 @@ Me chamo João Rafael de Oliveira, tenho 21 anos e estou no 3º semestre de Aná
    width= "30px"
    style="padding-right:10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
+/></br>
 
 ### 📊 Estatísticas
 
